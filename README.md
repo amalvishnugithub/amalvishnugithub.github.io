@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Musician</title>
+    <title>K.C. Amal Vishnu - MusicianbyPassion</title>
     <style>
         body {
-            font-family: 'Arial', sans-serif;
+            font-family: 'Courier New', sans-serif;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
@@ -37,7 +37,7 @@
     <section>
         <h2>Latest Releases</h2>
         <ul>
-            <li><a href="https://www.youtube.com/your_youtube_link" target="_blank">YouTube</a></li>
+            <li><a href="https://www.youtube.com/channel/UC3ZQhwJD69TOtY0VO96L_wQ" target="_blank">YouTube</a></li>
             <li><a href="https://www.spotify.com/your_spotify_link" target="_blank">Spotify</a></li>
             <!-- Add more links for other platforms -->
         </ul>
@@ -47,8 +47,8 @@
         <h2>Follow Me</h2>
         <p>Stay updated on my musical journey. Follow me on:</p>
         <ul>
-            <li><a href="https://www.instagram.com/your_instagram" target="_blank">Instagram</a></li>
-            <li><a href="https://www.twitter.com/your_twitter" target="_blank">Twitter</a></li>
+            <li><a href="https://www.instagram.com/amals_bhoomi" target="_blank">Instagram</a></li>
+            <li><a href="https://www.facebook.com/amal.vishnu.923" target="_blank">Facebook</a></li>
             <!-- Add more links for other social media platforms -->
         </ul>
     </section>
